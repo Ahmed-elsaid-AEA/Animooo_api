@@ -1,0 +1,1 @@
+[2025-08-19 17:28:03] ERROR: HttpException: Connection closed while receiving data, uri = /api/signup
